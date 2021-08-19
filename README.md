@@ -12,8 +12,8 @@ $ npm install
 ```
 ## Usage
 
-### Serving the app
+### Serving the server
 
 ```sh
-$ npm start
+$ npm app.js
 ```
